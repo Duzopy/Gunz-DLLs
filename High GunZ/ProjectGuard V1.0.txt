@@ -1,0 +1,10 @@
+12/23/13 - Central de Logs
+
+[Game] - Iniciando TechnologyGameZ...
+[Game] - TechnologyGameZ Iniciado.
+[Comandos] - Iniciando Comandos...
+[Comandos] - Comandos Iniciado.
+[ProjectGuard V1.0] - Checando arquivos do jogo...
+[ProjectGuard V1.0] - Arquivos do jogo checados.
+============= Anti-Hack Online ==============
+
